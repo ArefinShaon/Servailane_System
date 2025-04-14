@@ -54,5 +54,5 @@ The **Smart Surveillance System (S3)** is an advanced AI-powered security soluti
 For any questions, suggestions, or issues, feel free to contact me via GitHub:
 
 - **GitHub**: [Himanshu Agnihotri](https://github.com/Devid06)
-- **LinkedIm**: [Himanshu Agnihotri]([https://www.linkedin.com/in/himanshu-agnihotri26])
+- **LinkedIn**: [Himanshu Agnihotri](https://www.linkedin.com/in/himanshu-agnihotri26/)
 
