@@ -20,7 +20,7 @@ The **Smart Surveillance System (S3)** is an advanced AI-powered security soluti
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/sanskarchoubey/S3-Smart-Surveillance-System.git
+   git clone https://github.com/devid06/S3-Smart-Surveillance-System.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
@@ -53,6 +53,6 @@ The **Smart Surveillance System (S3)** is an advanced AI-powered security soluti
 
 For any questions, suggestions, or issues, feel free to contact me via GitHub:
 
-- **GitHub**: [Sanskar Choubey](https://github.com/sanskarchoubey)
-- **LinkedIm**: [Sanskar Choubey](https://www.linkedin.com/in/sanskarchoubey14)
+- **GitHub**: [Himanshu Agnihotri](https://github.com/Devid06)
+- **LinkedIm**: [Himanshu Agnihotri]([https://www.linkedin.com/in/himanshu-agnihotri26])
 
